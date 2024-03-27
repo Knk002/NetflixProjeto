@@ -17,3 +17,27 @@
     }
 }
 
+.bannerGrupo{
+    width: 100%;
+    height: 400px;
+    /* editando a imagem do banner de fundo */
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+.bannerTexto{
+    width: 40%;
+    height: 100%;
+    font-family:NetflixSans-Regular;
+    /* editando a div dentro da tag para manusear o texto */
+}
+
+.bannerTexto h3{
+    font-size: 12pt;
+}
+.bannerTexto h1{
+    font-size: 45pt;
+    margin: 0px 10px;
+}
